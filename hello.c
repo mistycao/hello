@@ -1,7 +1,7 @@
 /**
- * Author: Chris Bourke
+ * Author: Misty Cao
  * Date: 2016/11/02
- * Collaborator: Sean Rahman
+ * Collaborator: Sean Rahman, Tyler SToeger
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Major: Undeclared\n");
+  printf("Name: Misty. Major: Undeclared\n");
   printf("My name is Sean Rahman and my major is Computer Science!\n");
   printf("My name is Tyler Stoeger\n");
   printf("My major is Mechanical Engineering.\n");
