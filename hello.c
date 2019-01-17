@@ -1,6 +1,7 @@
 /**
  * Author: Chris Bourke
  * Date: 2016/11/02
+ * Colaborator: Sean Rahman
  *
  * A simple hello world program in C
  *
@@ -11,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Major: Undeclared\n");
+  printf("My name is Sean Rahman and my major is Computer Science!\n");
 
   return 0;
 }
