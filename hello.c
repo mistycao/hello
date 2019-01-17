@@ -1,7 +1,7 @@
 /**
  * Author: Chris Bourke
  * Date: 2016/11/02
- * Colaborator: Sean Rahman
+ * Collaborator: Sean Rahman
  *
  * A simple hello world program in C
  *
